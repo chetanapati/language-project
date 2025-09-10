@@ -1,11 +1,67 @@
 # language-project
 A simple project for practicing and learning programming language
 <html>
-  <head>
-    <title>
-      my first web page
-  </head>
-      <body>
-        <h1>wllcome to my code
-      </body>
+ <head>
+  <title> zara mini store</title>
+ </head>
+   
+  <body
+  style="font-family:sans-serif;
+         margin:0;
+         text-align:center;">
+  <div
+  style="background:black:color:white;padding:15px;">
+  <h2>ZARA STORE</h2>
+  <a href="#home"
+   style="color:white;margin:10px;">
+   home</a>
+   </div>
+   
+   <div
+   id="home"
+   style="padding:20px">
+   <h3>Our products</h3>
+   <div>
+   <img src="https://5.imimg.com/data5/GA/GH/MY-19154090/img-20170106-wa0024-1000x1000.jpg"
+    width="200"><br>
+    zara bag - $3100
+   </div>
+   <div>
+   <img src="https://u-mercari-images.mercdn.net/photos/m25655943818_1.jpg"
+   width="200"><br>
+   zara sandel-$2000
+   </div>
+</div>
+<div id="about"
+style="padding:20px;
+      background:#f2f2f2;">
+      <h3> about zara,/h3>
+      <img src="https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2024-08/Untitled%20design%20%286%29_0.jpg"
+      width="300"><br>
+      ZARA is a luxury fashion brand from Spain ,famous for bags,shoes and accessories.
+      </div>
+     <div
+     style="background:black;
+            color:white;
+            padding:10px;
+            margin-top:20px;">
+            @ 2025 zara store</div>
+ </body>
 </html>
+       
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
